@@ -6,4 +6,4 @@ Hello everyone, in the html I went through and changed all of the div's to seman
 
 ![image for the website](assets/images/Module-One-Screenshot.png)
 
-Deployed: https://sebascrab.github.io/Module_One-Challenge_Alexander_Tischner/
+Deployed: https://sebascrab.github.io/First-Coding-Challenge/
